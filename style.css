@@ -59,7 +59,7 @@
   
   header h2 {
 	color: var(--text-color);
-	font-size: 30px;
+	font-size: 25px;
   }
   
   /* CD */
@@ -159,8 +159,8 @@
   }
   
   .song .thumb {
-	width: 60px;
-	height: 60px;
+	width: 50px;
+	height: 50px;
 	border-radius: 50%;
 	background-size: cover;
 	margin: 0 8px;
