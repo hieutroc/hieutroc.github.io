@@ -104,6 +104,13 @@ const app = {
 		  "/img/img2.jpg"
 	  },
     {
+      name: " PRACTICE DAY 1",
+      singer: " ",
+      path: "/music/d1.mp3",
+      image:
+        "/img/img2.jpg"
+      },
+    {
       name: "Get on the horse.",
       singer: " ",
       path: "/music/s11.mp3",
@@ -160,6 +167,13 @@ const app = {
 		  "/img/img2.jpg"
 	  },
     {
+      name: "PRACTICE DAY 2",
+      singer: " ",
+      path: "/music/d2.mp3",
+      image:
+        "/img/img2.jpg"
+      },
+    {
       name: "I have to go even if it rains.",
       singer: " ",
       path: "/music/s21.mp3",
@@ -209,6 +223,13 @@ const app = {
         "/img/img2.jpg"
     },
     {
+      name: "PRACTICE DAY 3",
+      singer: " ",
+      path: "/music/d3.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
       name: " Are they all the same",
       singer: " ",
       path: "/music/s31.mp3",
@@ -247,6 +268,14 @@ const app = {
       singer: " ",
       path:
         "/music/s36.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 4",
+      singer: " ",
+      path:
+        "/music/d4.mp3",
       image:
         "/img/img2.jpg"
     },
@@ -317,6 +346,13 @@ const app = {
       name: "I am proud to be a part of this project.",
       singer: " ",
       path: "/music/s49.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 5",
+      singer: " ",
+      path: "/music/d5.mp3",
       image:
         "/img/img2.jpg"
     },
