@@ -54,12 +54,12 @@
   
   header h4 {
 	color: var(--primary-color);
-	font-size: 18px;
+	font-size: 15px;
   }
   
   header h2 {
 	color: var(--text-color);
-	font-size: 20px;
+	font-size: 30px;
   }
   
   /* CD */
@@ -186,4 +186,5 @@
 	color: #999;
 	font-size: 18px;
   }
+  
   

@@ -28,6 +28,19 @@ const app = {
   // (1/2) Uncomment the line below to use localStorage
   // config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
   songs: [
+
+    {
+      name: "Đúng Người Đúng Thời Điểm",
+      singer: "",
+      path: "/music/ms1.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: "Nụ cười 18 20",
+      singer: "",
+      path: "/music/ms2.mp3",
+      image: "/img/img2.jpg"
+    },
     {
       name: "she made me hurry",
       singer: "",
