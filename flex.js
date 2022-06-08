@@ -30,60 +30,278 @@ const app = {
   songs: [
     {
       name: "she made me hurry",
-      singer: "Raftaar x Fortnite",
+      singer: "",
       path: "/music/s1.mp3",
-      image: "/img/img1.jpg"
+      image: "/img/img2.jpg"
     },
     {
       name: " I made my decision.",
-      singer: "Raftaar x Salim Merchant x Karma",
+      singer: "",
       path: "/music/s2.mp3",
       image:
-        "/img/img1.jpg"
+        "/img/img2.jpg"
     },
     {
       name: " They agreed to work together.",
-      singer: "Raftaar x Brobha V",
+      singer: "",
       path:
         "/music/s3.mp3",
-      image: "/img/img1.jpg"
+      image: "/img/img2.jpg"
     },
     {
       name: "Tom concentrated on his work.",
-      singer: "Raftaar x Nawazuddin Siddiqui",
+      singer: "",
       path: "/music/s4.mp3",
       image:
-        "/img/img1.jpg"
+        "/img/img2.jpg"
     },
     {
       name: " He came in through the window.",
-      singer: "Raftaar",
+      singer: "",
       path: "/music/s5.mp3",
       image:
-        "/img/img1.jpg"
+        "/img/img2.jpg"
     },
     {
       name: " I cannot afford to buy such an expensive car",
-      singer: "Raftaar x kr$na",
+      singer: " ",
       path:
         "/music/s6.mp3",
       image:
-        "/img/img1.jpg"
+        "/img/img2.jpg"
     },
     {
       name: " You make me happy.",
-      singer: "Raftaar x Harjas",
+      singer: " ",
       path: "/music/s7.mp3",
       image:
-        "/img/img1.jpg"
+        "/img/img2.jpg"
     },
 	{
 		name: "Could I make a reservation",
-		singer: "Raftaar x Harjas",
+		singer: " ",
 		path: "/music/s8.mp3",
 		image:
-		  "/img/img1.jpg"
+		  "/img/img2.jpg"
 	  },
+    {
+      name: "Get on the horse.",
+      singer: " ",
+      path: "/music/s11.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " Let's get off the bus.",
+      singer: "",
+      path: "/music/s12.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " When did you get home",
+      singer: "",
+      path:
+        "/music/s13.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " He has his own room.",
+      singer: "",
+      path: "/music/s14.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " Do you think he did the job on his own",
+      singer: "",
+      path: "/music/s15.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "That's a good idea!",
+      singer: " ",
+      path:
+        "/music/s16.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " Who do you think you are",
+      singer: " ",
+      path: "/music/s17.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+	{
+		name: " He is still alive.",
+		singer: " ",
+		path: "/music/s18.mp3",
+		image:
+		  "/img/img2.jpg"
+	  },
+    {
+      name: "I have to go even if it rains.",
+      singer: " ",
+      path: "/music/s21.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " He had to work even on Sunday.",
+      singer: "",
+      path: "/music/s22.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I want to see the movie.",
+      singer: "",
+      path:
+        "/music/s23.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " Many friends came to see me off.",
+      singer: "",
+      path: "/music/s24.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " They are both good teachers.",
+      singer: "",
+      path: "/music/s25.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I don't agree with the government's policy on education.",
+      singer: " ",
+      path:
+        "/music/s26.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " Do you know how to use a computer",
+      singer: " ",
+      path: "/music/s27.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " Are they all the same",
+      singer: " ",
+      path: "/music/s31.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " Kim and I are the same age",
+      singer: "",
+      path: "/music/s32.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " What did you say",
+      singer: "",
+      path:
+        "/music/s33.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " You must study your whole life.",
+      singer: "",
+      path: "/music/s34.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " lean against this wall.",
+      singer: "",
+      path: "/music/s35.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I feel like another person",
+      singer: " ",
+      path:
+        "/music/s36.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I'm going out for a while.",
+      singer: " ",
+      path: "/music/s41.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I met him while he was in Japan.",
+      singer: " ",
+      path: "/music/s42.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " I need more time.",
+      singer: "",
+      path: "/music/s43.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I need your advice.",
+      singer: "",
+      path:
+        "/music/s44.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " We love each other.",
+      singer: "",
+      path: "/music/s45.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " Brush your teeth after each meal",
+      singer: "",
+      path: "/music/s46.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " This book is too old",
+      singer: " ",
+      path:
+        "/music/s46-1.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " My parents are old.",
+      singer: " ",
+      path: "/music/s47.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " Do you have a part time job",
+      singer: " ",
+      path: "/music/s48.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "I am proud to be a part of this project.",
+      singer: " ",
+      path: "/music/s49.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+	
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
