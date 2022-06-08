@@ -42,6 +42,12 @@ const app = {
       image: "/img/img2.jpg"
     },
     {
+      name: "Yêu lại từ đầu",
+      singer: "",
+      path: "/music/ms3.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
       name: "she made me hurry",
       singer: "",
       path: "/music/s1.mp3",
