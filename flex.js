@@ -356,6 +356,397 @@ const app = {
       image:
         "/img/img2.jpg"
     },
+    {
+      name: " He traveled all over the world",
+      singer: " ",
+      path: "/music/s51.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " That's what I thought.",
+      singer: " ",
+      path: "/music/s52.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: "I thought he was sick.",
+      singer: "",
+      path: "/music/s53.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I'm a little hungry.",
+      singer: "",
+      path:
+        "/music/s54.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " I have a little money..",
+      singer: "",
+      path: "/music/s55.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I haven't seen Tom since 1988.",
+      singer: "",
+      path: "/music/s56.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " It's been raining since morning.",
+      singer: " ",
+      path:
+        "/music/s57.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " He put the luggage down.",
+      singer: " ",
+      path: "/music/s58.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " The house is burning.",
+      singer: " ",
+      path: "/music/s59.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " The house is on fire",
+      singer: " ",
+      path: "/music/s59-1.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 6",
+      singer: " ",
+      path: "/music/d6.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " My camera is different from yours.",
+      singer: " ",
+      path: "/music/s61.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " We found him alive.",
+      singer: " ",
+      path: "/music/s62.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " I was at home.",
+      singer: "",
+      path: "/music/s63.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " There is no place like home.",
+      singer: "",
+      path:
+        "/music/s64.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " I live within 200 meters of the station.",
+      singer: "",
+      path: "/music/s65.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 7",
+      singer: "",
+      path: "/music/d7.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+
+    {
+      name: " Hi, I saw an advertisement in the newspaper for this coffeemaker.",
+      singer: "",
+      path:
+        "/music/s71.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " Where can I find it",
+      singer: "",
+      path: "/music/s72.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "AT THE STORE 1",
+      singer: "",
+      path: "/music/s73.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 8",
+      singer: " ",
+      path:
+        "/music/d8.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I'm sorry, Sir",
+      singer: " ",
+      path:
+        "/music/s81.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " that particular coffeemaker is currently sold out.",
+      singer: "",
+      path:
+        "/music/s82.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " Would you be interested in a different model",
+      singer: "",
+      path: "/music/s83.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "AT THE STORE 2",
+      singer: "",
+      path: "/music/s84.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 9",
+      singer: " ",
+      path:
+        "/music/d9.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "No,that’s the one I really want",
+      singer: "",
+      path:
+        "/music/s91.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " Do you know if any of your other stores have it in stock",
+      singer: "",
+      path: "/music/s92.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "AT THE STORE 3",
+      singer: "",
+      path: "/music/s93.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 10",
+      singer: " ",
+      path:
+        "/music/d10.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "There’s another branch of Carter Appliances about twenty minutes from here",
+      singer: "",
+      path:
+        "/music/s101.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " and our computer says that store has them in stock",
+      singer: "",
+      path: "/music/s102.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " Why don’t you check there",
+      singer: "",
+      path: "/music/s103.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 11",
+      singer: " ",
+      path:
+        "/music/d11.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I think we should have the promotional material for the hotel updated",
+      singer: "",
+      path: "/music/s111.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " before the start of the tourist season.",
+      singer: " ",
+      path:
+        "/music/s112.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I think we should have the promotional material for the hotel updated, before the start of the tourist season..",
+      singer: "",
+      path:
+        "/music/s113.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " The current materials don’t list our new prices.",
+      singer: "",
+      path: "/music/s114.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "AT THE MEETING 1",
+      singer: "",
+      path: "/music/s115.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 12",
+      singer: " ",
+      path:
+        "/music/d12.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I agree",
+      singer: "",
+      path: "/music/s121.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " and, you know, the brochure needs to be redone, as well",
+      singer: " ",
+      path:
+        "/music/s122.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " I agree and, you know, the brochure needs to be redone, as well ",
+      singer: "",
+      path:
+        "/music/s123.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: " It really should include new photos of the renovated rooms.",
+      singer: "",
+      path: "/music/s124.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "AT THE MEETING 2",
+      singer: "",
+      path: "/music/s125.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 13",
+      singer: " ",
+      path:
+        "/music/d13.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "  But do you think our budget can cover the additional expense",
+      singer: "",
+      path: "/music/s131.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " Printing a new brochure will be expensive.",
+      singer: " ",
+      path:
+        "/music/s132.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "But do you think our budget can cover the additional expense.  Printing a new brochure will be expensive ",
+      singer: "",
+      path:
+        "/music/s133.mp3",
+      image: "/img/img2.jpg"
+    },
+    {
+      name: "Yes, but it’ll help with our advertising",
+      singer: "",
+      path: "/music/s134.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: " that should get us more bookings.",
+      singer: "",
+      path: "/music/s135.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "Yes, but it'll help with our advertising, and that should get us more booking",
+      singer: " ",
+      path:
+        "/music/s136.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "AT THE MEETING 4",
+      singer: "",
+      path: "/music/s137.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+    {
+      name: "PRACTICE DAY 14",
+      singer: " ",
+      path:
+        "/music/d14.mp3",
+      image:
+        "/img/img2.jpg"
+    },
+
 	
   ],
   setConfig: function (key, value) {
