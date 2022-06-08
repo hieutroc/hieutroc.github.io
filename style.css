@@ -67,6 +67,7 @@
 	display: flex;
 	margin: auto;
 	width: 200px;
+
   }
   
   .cd-thumb {
@@ -76,6 +77,9 @@
 	background-color: #333;
 	background-size: cover;
 	margin: auto;
+	border: 1px solid greenyellow;
+
+
   }
   
   /* CONTROL */
